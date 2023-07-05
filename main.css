@@ -1,0 +1,45 @@
+h1 {
+    color: orange;
+    font-size: 70px;
+    background-color: seagreen;
+}
+
+h1 p { 
+    font-size: 200px ;
+}
+
+#mySize {
+    font-size: 25px;
+    font-weight: bold;
+    background-color:orange;
+}
+button {
+    font-size: 15px;
+    color: white;
+    background-color: seagreen;
+}
+
+ul li{
+    font-size: 20px;
+    color: navy ;
+}
+body{
+    background-color: blanchedalmond;
+}
+/*flexbox*/
+.flex-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: baseline;
+    width: 100px;
+    align-content:space-around ;
+    
+}
+
+
+
+
+
+
+
